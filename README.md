@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mrkjshcabute/joshc/blob/main/mrkjshcabute.svg" alt="Banner" />
+  <img src="https://github.com/mrkjshcabute/mrkjshcabute/blob/main/mrkjshcabute.svg" alt="Banner" />
 </p>
 
 # Hi, I’m Josh — welcome to my little dev corner 💻
