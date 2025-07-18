@@ -1,11 +1,13 @@
-# Hi, I’m Josh — welcome to my little dev corner 💻
+<p align="center">
+  <img src="https://github.com/mrkjshcabute/joshc/blob/main/mrkjshcabute.svg" alt="Banner" />
+</p>
 
-## 💫 About Me  
+# Hi, I’m Josh — welcome to my little dev corner 💻
 
 I'm a fresh Computer Engineering grad who loves turning cool ideas into clean, interactive websites. I work mainly with **React** and **Vue**, blending design and code into smooth, responsive experiences — always with a *Joshified* touch ✨
 
 - 🌱 Currently growing my skills and excited to work on **bigger, bolder projects**  
-- 🎬 Big fan of binge-watching series — got any recos? Send them my way!  
+- 🎬 Big fan of binge-watching series — got any recos? Send them my way!
 
 ## 🌐 Let's Connect
 
@@ -37,7 +39,6 @@ I'm a fresh Computer Engineering grad who loves turning cool ideas into clean, i
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-
 ## 📊 GitHub Stats
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mrkjshcabute&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" />
@@ -48,8 +49,5 @@ I'm a fresh Computer Engineering grad who loves turning cool ideas into clean, i
   <img width="81%" src="https://nirzak-streak-stats.vercel.app/?user=mrkjshcabute&theme=rose_pine&hide_border=false" />
 </p>
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mrkjshcabute&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
